@@ -8,4 +8,5 @@
         $imageData = file_get_contents($imageURL); // Read the image data
         echo $imageData; // Output the image data to the browser
     }
+    //comentarios de prueba
 ?>
